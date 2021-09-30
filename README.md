@@ -1,2 +1,2 @@
-# PyViz_Assignment_Pythonic_Monopoly
+# PyViz_Assignment
 Repository for storage and submission of PyZiv Assignment
